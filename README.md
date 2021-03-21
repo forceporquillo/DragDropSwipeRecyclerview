@@ -1,4 +1,4 @@
-# Drag & Drop n' Swipe Recyclerview [Firebase/Firestore Support]
+# [Customized] Drag & Drop n' Swipe Recyclerview with Firebase/Firestore Support
 [![issues](https://img.shields.io/github/issues/ernestoyaquello/DragDropSwipeRecyclerview?style=for-the-badge)](https://github.com/ernestoyaquello/DragDropSwipeRecyclerview/issues)
 [![pull requests](https://img.shields.io/github/issues-pr/ernestoyaquello/DragDropSwipeRecyclerview?style=for-the-badge)](https://github.com/ernestoyaquello/DragDropSwipeRecyclerview/pulls)
 [![contributors](https://img.shields.io/github/contributors/ernestoyaquello/DragDropSwipeRecyclerview?style=for-the-badge)](https://github.com/ernestoyaquello/DragDropSwipeRecyclerview/graphs/contributors)
